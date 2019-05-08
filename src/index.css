@@ -1,0 +1,8 @@
+.app {
+    font-family: sans-serif;
+    width: 50vw;
+    max-width: 30rem;
+    min-width: 20rem;
+    margin: auto;
+    text-align: center;
+}

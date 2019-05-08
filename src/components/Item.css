@@ -1,0 +1,25 @@
+.item {
+    margin: 1rem 0;
+    border-top-left-radius: 0.3rem;
+    border-bottom-left-radius: 0.3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.green {
+    background-color: #aaf0d1;
+}
+
+.red {
+    background-color: #ff9d9d;
+}
+
+.item-name {
+    font-weight: bold;
+}
+
+.item-name, .item-description {
+    margin: 0 0.5rem;
+}

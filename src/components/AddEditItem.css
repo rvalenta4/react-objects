@@ -1,0 +1,10 @@
+.add-item {
+    display: flex;
+    margin-bottom: 1rem;
+    justify-content: center;
+}
+
+.text-input {
+    min-width: 4rem;
+    margin-right: 1rem;
+}
